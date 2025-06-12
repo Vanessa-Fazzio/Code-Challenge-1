@@ -1,4 +1,4 @@
-unction estimateTransactionFee() {
+function estimateTransactionFee() {
     // prompt the user to enter amount
     const userinput = prompt("Unatuma ngapi? (KES)");
     // convert the input to a number
